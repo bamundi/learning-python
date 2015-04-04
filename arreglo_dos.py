@@ -16,6 +16,4 @@ frutas.remove("Manzana")
 #pop -> remover el elemento segun su posicion
 frutas.pop(5)
 
-
-
 print frutas
